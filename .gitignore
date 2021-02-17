@@ -1,0 +1,10 @@
+.env/
+.vscode/
+data/_dataset/*
+data/dataset_raw*
+results/*
+logs/*
+test_*
+out/*
+MobileNetV2_face_emotion*
+vgg16_weights_tf_dim_ordering_tf_kernels_notop*
