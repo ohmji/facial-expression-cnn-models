@@ -19,7 +19,7 @@ Default network type is MobileNetV2.
 | VGG16         |  78.44%      | 20.85% |
 | Xception | 64.04%   |  26.45% |
 
-## Learning rrom scratch model result
+## Learning from scratch model result
 
 | Model         | Test Accuracy| Test lost| 
 | ------------- | -------------|------------- |
