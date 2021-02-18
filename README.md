@@ -15,7 +15,7 @@ Default network type is MobileNetV2.
 
 | Model         | Test Accuracy| Test lost| 
 | ------------- | -------------|------------- |
-| **neha01 model**           |  **81.67%**      |  **19.46%** |
+| [neha01 model](https://github.com/neha01/Realtime-Emotion-Detection)            |  **81.67%**      |  **19.46%** |
 | MobileNetV2 (fine tune)  |  80.64%   | 19.84% |
 | VGG16         |  78.44%      | 20.85% |
 | Xception | 64.04%   |  26.45% |
