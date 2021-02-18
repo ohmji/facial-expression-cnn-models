@@ -11,7 +11,7 @@ Raw data collected from kaggle with `fer2013`+`ferplus for labels` ,
 Execute `train.py` script and pass network architecture type dataset dir and epochs to it.
 Default network type is MobileNetV2.
 
-## Transfer Learning  Model result
+## Transfer learning  model result
 
 | Model         | Test Accuracy| Test lost| 
 | ------------- | -------------|------------- |
@@ -19,7 +19,7 @@ Default network type is MobileNetV2.
 | VGG16         |  78.44%      | 20.85% |
 | Xception | 64.04%   |  26.45% |
 
-## Learning From Scratch Model result
+## Learning rrom scratch model result
 
 | Model         | Test Accuracy| Test lost| 
 | ------------- | -------------|------------- |
