@@ -4,7 +4,7 @@ Detecting face emotion with OpenCV and TensorFlow. Using simple CNN or model pro
 
 ## Data
 
-Raw data collected from kaggle with `fer2013`+`ferplus for label` ,
+Raw data collected from kaggle with `fer2013`+`ferplus for labels` ,
 
 ## Training
 
@@ -15,7 +15,7 @@ Default network type is MobileNetV2.
 
 | Model         | Test Accuracy| Test lost| 
 | ------------- | -------------|------------- |
-| **CNN**           |  **81.67%**      |  **19.46%** |
+| **neha01 model**           |  **81.67%**      |  **19.46%** |
 | MobileNetV2 (fine tune)  |  80.64%   | 19.84% |
 | VGG16         |  78.44%      | 20.85% |
 | Xception | 64.04%   |  26.45% |
