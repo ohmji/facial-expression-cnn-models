@@ -1,4 +1,4 @@
-# Face Mask Detection
+# CNN-FACIAN-EXPRESSION
 
 Detecting face emotion with OpenCV and TensorFlow. Using simple CNN or model provided by TensorFlow as MobileNetV2, VGG16, Xception.
 
